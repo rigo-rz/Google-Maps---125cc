@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Estación de Baterías / Battery Station - Zoomo - Madrid</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>MotoV4</name>
+      <description>C/ de Los Mesejo, 14, Retiro, 28007 Madrid, Spain</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6694867,40.4002952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMT - Aparcamiento - Avda. de Portugal</name>
+      <description>Av. de Portugal, 155, Latina, 28011 Madrid, Spain</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7382909,40.4110844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell Puente de Praga</name>
+      <description>P.º de Sta. María de la Cabeza, 90, Arganzuela, 28045 Madrid, Spain</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7025534,40.3978314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMT Canalejas 360
+</name>
+      <description>EMT Canalejas 360 - Madrid - C/ de Alcalá. 22</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6987571,40.4179621,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMT Recoletos
+</name>
+      <description>EMT Recoletos - Madrid - Paseo Recoletos 4</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6920168,40.4210229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parking APK2 Máiquez
+</name>
+      <description>Parking APK2 Máiquez - Madrid - c/ Máiquez 21</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6731765,40.4171738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHELL Goya</name>
+      <description>C/ de Goya, 24, Salamanca, 28001</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6829031,40.4249148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aparcamiento Valle del Jerte</name>
+      <description>Av. de Daroca, 5, Cdad. Lineal, 28080 Madrid, Spain</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6585389,40.4314338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMT Almagro</name>
+      <description>C. de Almagro, 15, Chamberí, 28010</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6929751,40.4304325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midas Conde Duque
+</name>
+      <description>Midas Conde Duque - Madrid - C/ del Conde Duque. 36</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.709807,40.428295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shell Alberto Aguilera</name>
+      <description>Shell Alberto Aguilera - Calle Alberto Aguilera. 18</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.70869,40.430096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midas López de Hoyos</name>
+      <description>Midas López de Hoyos - Madrid - Calle López de Hoyos. 70</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.677618,40.441766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parking APK2 Edgar Neville</name>
+      <description>C. de Edgar Neville, 1, Tetuán, 28020 </description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.697167,40.447017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taller Silence Serrano</name>
+      <description>Taller Serrano  - C/ Rodriguez Marín. 65</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6791193,40.4526275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Silence Madrid</name>
+      <description>Calle Serrano. 226</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.679864,40.4530995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mesena Campus Acciona
+</name>
+      <description>Mesena Campus Acciona C/ Mesena. 80</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6584777,40.4668449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parking CC Caleido
+</name>
+      <description>Paseo de la Castellana 259 E. Cuatro Torres Business Area</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6877715,40.4786817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ely Motor Las Rozas</name>
+      <description>Las Rozas de Madrid - C/ Praga 4</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.890155,40.498221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>eMoto Bike Las Rozas
+</name>
+      <description>Pol. Europolis c/ Nápoles 13 - Las Rozas de Madrid</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.888894,40.498897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motos JGM</name>
+      <description>C/ José Echegaray. 16</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6549405,40.5421134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sutra Bikes</name>
+      <description>Silence - Sutra Bikes - Torrejón de Ardoz - C/ Grafito. 1</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.4855633,40.4549664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
